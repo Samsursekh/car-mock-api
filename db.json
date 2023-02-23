@@ -1,88 +1,136 @@
 {
-    "users": [
+    "cars": [
       {
         "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
+        "brand": "Audi",
+        "type":"Manual",
+        "year": 2018,
+        "kms": 32435,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 756757,
         "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org",
+        "brand": "Sumo",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 546757,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 5475677,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKg8vJq6gaE8fBOvgLNUQ5G7EWScRauqXkTwqEl-EX&s"
       },
       {
         "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com",
+        "brand": "Maruti",
+        "type":"AMT",
+        "year": 2003,
+        "kms": 5456,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 656432,
         "image": "https://images.pexels.com/photos/3752194/pexels-photo-3752194.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com",
+        "brand": "Safari",
+        "type":"AMT",
+        "year": 2022,
+        "kms": 86865,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 4375778,
         "image": "https://images.pexels.com/photos/2676096/pexels-photo-2676096.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2020,
+        "kms": 7556,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 6575687,
         "image": "https://images.pexels.com/photos/376361/pexels-photo-376361.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2012,
+        "kms": 7575,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 687756,
         "image": "https://images.pexels.com/photos/1719648/pexels-photo-1719648.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu",
+        "brand": "Nano",
+        "type":"AMT",
+        "year": 2016,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 465700,
         "image": "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 8880,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 468700,
         "image": "https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 346000,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKg8vJq6gaE8fBOvgLNUQ5G7EWScRauqXkTwqEl-EX&s"
       },
       {
         "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 8054660,
         "image": "https://images.unsplash.com/photo-1616455579100-2ceaa4eb2d37?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym13JTIwY2FyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
       },
       {
         "id": 11,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 8700,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 85640,
         "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=400"
       },
       {
         "id": 12,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com",
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 4700,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 805600,
         "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=400"
       }
-    ]
+    ],
+    "wishlisted_cars": [
+        {
+            "id": 12,
+            "brand": "Tata",
+            "type":"AMT",
+            "year": 2017,
+            "kms": 4700,
+            "Description": "Tata Nexon with all original documents",
+            "Price": 805600,
+            "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
   }
